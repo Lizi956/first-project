@@ -1,75 +1,74 @@
-.logo{
-    vertical-align: center;
-    height: 40px;
-    margin-top: 1cm;
-    padding-left: 1cm;
+.logo {
+  vertical-align: center;
+  height: 40px;
+  margin-top: 1cm;
+  padding-left: 1cm;
 }
-.ul{
-    display: flex;
-    vertical-align: center;
-    margin-top: 1.4cm;
-    padding-left:2cm;
+.ul {
+  display: flex;
+  vertical-align: center;
+  margin-top: 1.4cm;
+  padding-left: 2cm;
 }
-li{
-    margin: 7px;
-    font-family: "Roboto Slab", serif;
-    font-optical-sizing: auto;
- }
-.div{
-    display: flex;
+li {
+  margin: 7px;
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+}
+.div {
+  display: flex;
 }
 
-.h1{
-    padding-left: 89px;
-    color:#7EB693 ;
-    font-family: 'Yellowtail';
-    margin-top: 2cm;
-  
+.h1 {
+  padding-left: 89px;
+  color: #7eb693;
+  font-family: "Yellowtail";
+  margin-top: 2cm;
 }
-.p{
-    font-family: "Roboto", sans-serif;
-    font-weight: 900;
-    font-style: normal;
-    padding-left: 89px;
+.p {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  padding-left: 89px;
 }
-.p1{
-    font-family: "Open Sans", sans-serif;
-    font-optical-sizing: auto;
-    padding-left: 89px;
+.p1 {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  padding-left: 89px;
 }
-.div-element{
-    width: 1118px;
-    height: 335px;
-    display: flex;
-    padding-left: 250px;
+.div-element {
+  width: 1118px;
+  height: 335px;
+  display: flex;
+  padding-left: 250px;
 }
-.image1{
-    width:600px;
+.image1 {
+  width: 600px;
 }
-.hh1{
-    width: 152px;
-    height: 29px;
-    font-family: "Roboto", sans-serif;
-    font-weight: 900;
-    font-style: normal;
+.hh1 {
+  width: 152px;
+  height: 29px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
 }
-.pp1{
-   width: 184;
-   height: 115px;
-   padding-left: 5px;
+.pp1 {
+  width: 184;
+  height: 115px;
+  padding-left: 5px;
 }
-.img{
-    margin-top: 1cm;
-    padding-left: 15px;
-    padding-left: 89px;
+.img {
+  margin-top: 1cm;
+  padding-left: 15px;
+  padding-left: 89px;
 }
-.pclass{
-padding-left: 95px;
-margin-top: 10px;
+.pclass {
+  padding-left: 95px;
+  margin-top: 10px;
 }
-.div2{
-    display: flex;
-    width: 1400px;
-    height: 624px;
-    margin-top: 1.5cm;
+.div2 {
+  display: flex;
+  width: 1400px;
+  height: 624px;
+  margin-top: 1.5cm;
 }
